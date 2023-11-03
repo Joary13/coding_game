@@ -1,0 +1,2 @@
+Voilà, partant du constat (après différentes périodes de formation) qu'il est difficile de se prétendre réellement développeur, je décide de commencer à publier mes actions. En effet j'admets que si j'étais un recruteur je choisirais mon futur collaborateur en fonction de sa personnalité, son portfolio, son activité sur Coding Game et Github, et enfin selon les résultats obtenus aux tests techniques.
+Je me forme au développement web et à tout ce qui tourne autour des Technologies de l'information par plaisir donc il est temps d'assumer, mon niveau ne pourra que s'améliorer.
