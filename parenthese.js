@@ -1,8 +1,10 @@
-// trouver la longeur (integer) de la plus longue série "normale" de parenthèses
+const data = ')((())))(()())';
+// const data = ')()(()))';
 
-// const data = ')((())))(()())';
-const data = ')()(()))';
-
+/**
+ *  Affiche la longeur (integer) de la plus longue série "normale" de parenthèses
+ * @param {Array} data
+ */
 const maxBracketLength = (data) => {
   const tab = data.split('');
   let max = 0;
